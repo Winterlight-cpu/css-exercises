@@ -1,6 +1,7 @@
 /*Using Type selector to edit background color*/
 .odd {
     background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 /*Using an ID Selector to edit text color and font size*/
 #two {
