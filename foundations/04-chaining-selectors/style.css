@@ -1,0 +1,12 @@
+/*Struggled for 30 minutes because I didn't add "px". Too blind to find an answer had to cheat glad to know it wasn't much. Take a step back next time*/
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px; 
+
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;   
+}
