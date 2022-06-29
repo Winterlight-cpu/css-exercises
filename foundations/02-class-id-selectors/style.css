@@ -1,12 +1,12 @@
-
+/*Using Type selector to edit background color*/
 .odd {
     background-color: lightcoral;
 }
-
+/*Using an ID Selector to edit text color and font size*/
 #two {
     color: blue; font-size: 36px;
 }
-
+/*This is an example of chaining selectors using class selectors*/
 .odd.cool {
     font-size: 24px;
 }
