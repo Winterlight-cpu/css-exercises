@@ -1,3 +1,4 @@
+/*Cascade kicked my ass :(, but I pulled through*/
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
@@ -11,7 +12,7 @@
   font-size: 22px;
 }
 
-.confirm {
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
@@ -23,7 +24,7 @@
   font-size: 20px;
 }
 
-.child {
+.child.text {
   color: red;
   font-size: 14px;
 }
